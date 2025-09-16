@@ -28,11 +28,11 @@ Featuring animated **sun & moon arcs**, **twinkling stars**, **drifting clouds**
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/day-night-toggle.git
+git clone https://github.com/Sagarika311/day-night-toggle.git
 cd day-night-toggle
-```
+````
 
-Open `index.html` in your browser, and you’re done 
+Open `index.html` in your browser, and you’re done.
 
 ---
 
@@ -72,15 +72,29 @@ You can easily tweak:
 
 ## 🚀 How to Use Anywhere
 
-In any webpage, just add:
+You can embed the toggle in **any webpage** using either your local copy or **jsDelivr CDN**:
+
+### 1️⃣ Local usage
 
 ```html
 <div id="dayNightToggle"></div>
 <script src="daynight-toggle.js"></script>
+```
+
+### 2️⃣ Using jsDelivr (versioned release)
+
+After publishing a release (e.g., `v1.0.0`) on GitHub, use the versioned URL:
+
+```html
+<div id="dayNightToggle"></div>
+<script src="https://cdn.jsdelivr.net/gh/Sagarika311/day-night-toggle@v1.0.0/daynight-toggle.js"></script>
+```
+
+> ✅ This ensures the toggle always loads the specific stable version.
 
 ---
 
 ## 📜 License
 
 MIT License © 2025 [Sagarika](https://github.com/Sagarika311)
-"# Animated-Theme-Toggle" 
+
