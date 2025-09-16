@@ -50,6 +50,20 @@ day-night-toggle/
 
 ---
 
+## 🛠️ Tech Stack
+
+This project is built using a **lightweight, framework-free stack** focused on pure web technologies:
+
+* **HTML5** → Structure of the page and SVG-based toggle design.
+* **CSS3** → Styling, gradients, animations (cloud drift, star twinkle, sun/moon arcs).
+* **Vanilla JavaScript (ES6+)** → Toggle logic, dynamic DOM updates, and theme switching.
+* **SVG** → Scalable vector graphics for sun, moon, stars, mountains, and clouds.
+* **CSS Animations & Transitions** → Smooth day-to-night transitions, knob movement, glow effects.
+
+⚡ No external libraries or dependencies — everything is built with **native web standards** for performance and portability.
+
+---
+
 ## ⚙️ How It Works
 
 * The **toggle knob** listens for clicks (`script.js`).
