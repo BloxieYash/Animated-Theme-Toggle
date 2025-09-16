@@ -19,7 +19,7 @@ Featuring animated **sun & moon arcs**, **twinkling stars**, **drifting clouds**
 
 ## 📸 Preview  
 
-![Day Night Toggle Preview](Demo.mp4)
+![Day Night Toggle Preview](Demo.gif)
 
 ---
 
