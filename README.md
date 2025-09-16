@@ -1,6 +1,6 @@
 # 🌗 Day/Night Theme Toggle
 
-An interactive **Day/Night theme switcher** or Light/Dark mode toggle built with **HTML, CSS, and SVG animations**.
+An interactive **Day/Night theme switcher** or **Light/Dark mode toggle** built with **HTML, CSS, and SVG animations**.
 Featuring animated **sun & moon arcs**, **twinkling stars**, **drifting clouds**, and **layered mountains** that smoothly transition between light and dark modes.
 
 ---
