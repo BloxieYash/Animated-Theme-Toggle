@@ -113,7 +113,7 @@ You can embed the toggle in **any webpage** using either your local copy or **js
 <script src="https://cdn.jsdelivr.net/gh/Sagarika311/Animated-Theme-Toggle@v1.0.0/daynight-toggle.js"></script>
 ```
 
-> ✅ This ensures the toggle always loads the specific stable version.
+This ensures the toggle always loads the specific stable version.
 
 ---
 
