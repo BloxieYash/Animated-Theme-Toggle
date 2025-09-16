@@ -79,7 +79,7 @@ This project is built using a **lightweight, framework-free stack** focused on p
 
  Light Mode  |  Dark Mode  
 :-------------------------:|:-------------------------:  
-<img src="./Screenshot (1).png" width="600"/> | <img src="./Screenshot (2).png" width="600"/> 
+<img src="./Screenshot (2).png" width="600"/> | <img src="./Screenshot (1).png" width="600"/> 
 ---
 
 ---
