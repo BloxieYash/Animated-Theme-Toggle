@@ -89,7 +89,7 @@ After publishing a release (e.g., `v1.0.0`) on GitHub, use the versioned URL:
 
 ```html
 <div id="dayNightToggle"></div>
-<script src="https://cdn.jsdelivr.net/gh/Sagarika311/day-night-toggle@v1.0.0/daynight-toggle.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Sagarika311/Animated-Theme-Toggle@v1.0.0/daynight-toggle.js"></script>
 ```
 
 > ✅ This ensures the toggle always loads the specific stable version.
