@@ -85,8 +85,6 @@ You can embed the toggle in **any webpage** using either your local copy or **js
 
 ### 2️⃣ Using jsDelivr (versioned release)
 
-After publishing a release (e.g., `v1.0.0`) on GitHub, use the versioned URL:
-
 ```html
 <div id="dayNightToggle"></div>
 <script src="https://cdn.jsdelivr.net/gh/Sagarika311/Animated-Theme-Toggle@v1.0.0/daynight-toggle.js"></script>
